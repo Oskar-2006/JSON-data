@@ -1,0 +1,34 @@
+{
+  "title": "Mirada_Oscura",
+  "scenes": [
+    {
+      "id": "scene-1-1755866497487-0.6792084886375198",
+      "number": 1,
+      "setting": "MIRADA OSCURA EXT. UNIVERSIDAD – NOCHE",
+      "content": "PLANO ENTERO – Ella está saliendo de la Universidad junto a un chico, ella no lo mira. El chico se enoja y le grita.\n\nCHICO UNIVERSIDAD\n\nVETE, NO TE QUIERO VER\n\nPLANO LATERAL - Ella mira como se va y suspira, baja las escaleras y camina, llega a un restaurante, abre la Puerta y se sienta en una mesa al lado de un baño.\n",
+      "shots": []
+    },
+    {
+      "id": "scene-2-1755866534314",
+      "number": 2,
+      "setting": "INT. RESTAURANTE – NOCHE",
+      "content": "PLANO GENERAL – Ella está sentada sola en una mesa.\n\nPLANO SUBJETIVO – Mira al HOMBRE VIEJO y ALTO (camisa de cuadros, barba blanca), dos mesas más adelante.\n\nPRIMER PLANO – Su rostro. Aparta la mirada del hombre rápidamente.\n\nCÁMARA EN MANO (ligero movimiento) – El hombre se levanta, camina hacia la barra sin dejar de mirarla.\n\nHOMBRE VIEJO\nWhisky, porfavor\n\nRACK FOCUS – De la mirada de él a la cara de ella, que lo observa con nerviosismo.\n\nEl bartender le sirve un whisky. Él agarra el vaso, toma un trago y se acerca a ella.\n\nCÁMARA EN MANO – Ella toma su bolso con rapidez y se dirige hacia la puerta del baño.\n",
+      "shots": []
+    },
+    {
+      "id": "scene-3-1755866559018",
+      "number": 3,
+      "setting": "INT. BAÑO DE MUJERES – NOCHE",
+      "content": "PRIMER PLANO – Ella se mira en el espejo.\n\nPLANO DETALLE – Deja el bolso a un lado del lavamanos, se moja el rostro, se seca con una toalla.\n\nPLANO SUBJETIVO – Sale una chica del baño de atras que la ve de abajo hacia arriba con odio, camina hacia el lavamos se hecha un agua y sale por la Puerta.\n\nPLANO GENERAL – Silencio. Respira. Coge su bolso, va hacia la Puerta y sale.\n",
+      "shots": []
+    }
+  ],
+  "sceneCount": 3,
+  "characters": [
+    "ANNA",
+    "MARK"
+  ],
+  "characterCount": 0,
+  "estimatedDuration": 1
+}
+
