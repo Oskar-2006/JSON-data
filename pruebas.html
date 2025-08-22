@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -15,14 +16,14 @@
         .then(response => response.json())
         .then(data => {
             console.log(data);
-            console.log(data.temporadas[0].capitulos[0].tram);
+            console.log(data.characters);
             jsonData = data; 
             mostrarTrama(); 
         })
 
         function mostrarTrama(){
             if (jsonData) {
-                document.getElementById("trama").innerHTML = jsonData.temporadas[0].capitulos[0].trama;
+                document.getElementById("trama").innerHTML = jsonData.characters;
             }
         }
     </script>
